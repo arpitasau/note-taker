@@ -12,8 +12,4 @@ This note-taker application can be used to write, save, and delete notes. This a
 <img src = "public/assets/note.png"></a>
 
 ## Link to the application deployed in Heroku
-<a href = "https://nameless-gorge-85230.herokuapp.com/notes" target ="_blank">Please click here to see the deployed application</a>
-
-
-
->
+<a href = "https://nameless-gorge-85230.herokuapp.com/" target ="_blank">Please click here to see the deployed application</a>
