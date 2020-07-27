@@ -8,8 +8,8 @@ This note-taker application can be used to write, save, and delete notes. This a
 * The applivation was built with HTML, CSS, Javascript, node.js and express backend.
 
 ## Images
-<img src = "assets/homepage.png">
-<img src = "assets/home
+<img src = "/assets/homepage.png">
+<img src = "/assets/home
 
 ## Link to the application deployed in Heroku
 <a href = "https://nameless-gorge-85230.herokuapp.com/notes" target ="_blank">
